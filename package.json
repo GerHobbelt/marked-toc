@@ -35,7 +35,7 @@
     "should": "^4.3.1"
   },
   "dependencies": {
-    "gray-matter": "^1.0.2",
+    "gray-matter": "^3.0.0",
     "lodash": "^2.4.1",
     "marked": "0.3.0",
     "uslug": "^1.0.3",
