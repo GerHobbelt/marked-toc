@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "gray-matter": "^1.0.2",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.16",
     "marked": "0.3.0",
     "uslug": "^1.0.3",
     "write": "^0.1.1"
